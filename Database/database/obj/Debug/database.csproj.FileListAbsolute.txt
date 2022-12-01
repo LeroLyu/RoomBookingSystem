@@ -1,0 +1,179 @@
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\database.exe.config
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\database.exe
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\database.pdb
+C:\Users\红大神的电脑\source\repos\database\database\obj\Debug\database.csproj.AssemblyReference.cache
+C:\Users\红大神的电脑\source\repos\database\database\obj\Debug\database.Form1.resources
+C:\Users\红大神的电脑\source\repos\database\database\obj\Debug\database.Properties.Resources.resources
+C:\Users\红大神的电脑\source\repos\database\database\obj\Debug\database.csproj.GenerateResource.cache
+C:\Users\红大神的电脑\source\repos\database\database\obj\Debug\database.csproj.CoreCompileInputs.cache
+C:\Users\红大神的电脑\source\repos\database\database\obj\Debug\database.exe
+C:\Users\红大神的电脑\source\repos\database\database\obj\Debug\database.pdb
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\Google.Protobuf.dll
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\MySql.Data.dll
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\System.Buffers.dll
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\System.Memory.dll
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\Zstandard.Net.dll
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\Google.Protobuf.pdb
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\Google.Protobuf.xml
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\MySql.Data.xml
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\System.Buffers.xml
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\System.Memory.xml
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\红大神的电脑\source\repos\database\database\obj\Debug\database.csproj.CopyComplete
+C:\Users\红大神的电脑\source\repos\database\database\obj\Debug\database.Form2.resources
+C:\Users\红大神的电脑\source\repos\database\database\obj\Debug\database.Form3.resources
+C:\Users\红大神的电脑\source\repos\database\database\obj\Debug\database.Form4.resources
+C:\Users\红大神的电脑\source\repos\database\database\obj\Debug\database.Form5.resources
+C:\Users\红大神的电脑\source\repos\database\database\obj\Debug\database.Form6.resources
+C:\Users\红大神的电脑\source\repos\database\database\bin\Debug\IrisSkin4.dll
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\database.exe.config
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\database.exe
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\database.pdb
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\Google.Protobuf.dll
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\MySql.Data.dll
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\System.Buffers.dll
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\System.Memory.dll
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\Zstandard.Net.dll
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\Google.Protobuf.pdb
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\Google.Protobuf.xml
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\MySql.Data.xml
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\System.Buffers.xml
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\System.Memory.xml
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\WinFormsApp1.Form01.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\WinFormsApp1.Form02.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\WinFormsApp1.Form03.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\WinFormsApp1.Form04.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\database.Form11.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\database.Form12.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\database.Form13.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\database.Form14.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\database.Form15.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\database.Form16.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\WinFormsApp1.Form31.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\WinFormsApp1.Form32.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\WinFormsApp1.Form33.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\WinFormsApp1.Form34.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\DataBase3.Form35.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\database.Properties.Resources.resources
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\database.exe
+C:\Users\vy\Desktop\RoomBookingSystem (2)\Database02\database\obj\Debug\database.pdb
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\database.exe.config
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\database.exe
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\database.pdb
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\Google.Protobuf.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\MySql.Data.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\System.Buffers.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\System.Memory.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\Zstandard.Net.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\Google.Protobuf.pdb
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\Google.Protobuf.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\MySql.Data.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\System.Buffers.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\System.Memory.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\WinFormsApp1.Form01.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\WinFormsApp1.Form02.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\WinFormsApp1.Form03.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\WinFormsApp1.Form04.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\database.Form11.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\database.Form12.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\database.Form13.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\database.Form14.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\database.Form15.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\database.Form16.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\WinFormsApp1.Form31.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\WinFormsApp1.Form32.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\WinFormsApp1.Form33.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\WinFormsApp1.Form34.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\DataBase3.Form35.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\database.Properties.Resources.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\database.exe
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem\Database\database\obj\Debug\database.pdb
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\database.exe.config
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\database.exe
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\database.pdb
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\Google.Protobuf.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\MySql.Data.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\System.Buffers.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\System.Memory.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\Zstandard.Net.dll
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\Google.Protobuf.pdb
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\Google.Protobuf.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\MySql.Data.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\System.Buffers.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\System.Memory.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\WinFormsApp1.Form01.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\WinFormsApp1.Form02.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\WinFormsApp1.Form03.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\WinFormsApp1.Form04.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\database.Form11.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\database.Form12.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\database.Form13.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\database.Form14.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\database.Form15.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\database.Form16.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\WinFormsApp1.Form31.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\WinFormsApp1.Form32.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\WinFormsApp1.Form33.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\WinFormsApp1.Form34.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\DataBase3.Form35.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\database.Properties.Resources.resources
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\database.exe
+C:\Users\vy\Desktop\数据库大作业\RoomBookingSystem (2)\Database\database\obj\Debug\database.pdb
